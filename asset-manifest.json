@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-photography-site/static/css/main.0d99e354.chunk.css",
+    "main.js": "/react-photography-site/static/js/main.73274da8.chunk.js",
+    "main.js.map": "/react-photography-site/static/js/main.73274da8.chunk.js.map",
+    "runtime-main.js": "/react-photography-site/static/js/runtime-main.930f5cb3.js",
+    "runtime-main.js.map": "/react-photography-site/static/js/runtime-main.930f5cb3.js.map",
+    "static/js/2.3e83437a.chunk.js": "/react-photography-site/static/js/2.3e83437a.chunk.js",
+    "static/js/2.3e83437a.chunk.js.map": "/react-photography-site/static/js/2.3e83437a.chunk.js.map",
+    "index.html": "/react-photography-site/index.html",
+    "static/css/main.0d99e354.chunk.css.map": "/react-photography-site/static/css/main.0d99e354.chunk.css.map",
+    "static/js/2.3e83437a.chunk.js.LICENSE.txt": "/react-photography-site/static/js/2.3e83437a.chunk.js.LICENSE.txt",
+    "static/media/Homepage_testi.01df20eb.webp": "/react-photography-site/static/media/Homepage_testi.01df20eb.webp",
+    "static/media/blog02.e0313a90.webp": "/react-photography-site/static/media/blog02.e0313a90.webp",
+    "static/media/blog03.4ba372ab.webp": "/react-photography-site/static/media/blog03.4ba372ab.webp",
+    "static/media/blog1.0069da2d.webp": "/react-photography-site/static/media/blog1.0069da2d.webp",
+    "static/media/blog2.411c55f0.webp": "/react-photography-site/static/media/blog2.411c55f0.webp",
+    "static/media/blog3.6cc6f2e0.webp": "/react-photography-site/static/media/blog3.6cc6f2e0.webp",
+    "static/media/App.css": "/react-photography-site/static/media/hero_man1.0f4b1e4a.webp",
+    "static/media/brand2.005644f2.webp": "/react-photography-site/static/media/brand2.005644f2.webp",
+    "static/media/gallery1.469d1666.webp": "/react-photography-site/static/media/gallery1.469d1666.webp",
+    "static/media/gallery2.931f5b3b.webp": "/react-photography-site/static/media/gallery2.931f5b3b.webp",
+    "static/media/gallery3.0bdb6dbc.webp": "/react-photography-site/static/media/gallery3.0bdb6dbc.webp",
+    "static/media/gallery4.34116c20.webp": "/react-photography-site/static/media/gallery4.34116c20.webp",
+    "static/media/gallery5.ca81e54f.webp": "/react-photography-site/static/media/gallery5.ca81e54f.webp",
+    "static/media/gallery6.8e398ff1.webp": "/react-photography-site/static/media/gallery6.8e398ff1.webp",
+    "static/media/instagram1.adeb67c0.webp": "/react-photography-site/static/media/instagram1.adeb67c0.webp",
+    "static/media/logo.5dcec6b6.webp": "/react-photography-site/static/media/logo.5dcec6b6.webp",
+    "static/media/testimonial.6b27ff34.webp": "/react-photography-site/static/media/testimonial.6b27ff34.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.930f5cb3.js",
+    "static/js/2.3e83437a.chunk.js",
+    "static/css/main.0d99e354.chunk.css",
+    "static/js/main.73274da8.chunk.js"
+  ]
+}
